@@ -1,0 +1,8 @@
+1. world_champions contiene la lista de los campeones de cada grand prix. Hay que recordar que puede ser más de un campeón en cada
+sistema de puntuación, por eso es una lista.
+
+2. El main.py llama a la función world_champions para calcular los campeones.
+
+3. Para facilidad maneje el input en un archivo de entrada llamado "input.txt", este se puede ir modificando para variar los resultados
+de los campeones, al terminar de ejecutar el código generará un archivo outpu.txt con la salida esperada de los campeones de cada 
+sistema de puntuación por grand prix.

@@ -1,0 +1,8 @@
+1. clustering.py contiene el algoritmo para clasificar los customer_id en las categorías low, medium o high.
+
+2. Al ser un problema de clasificación multiclase se trabaja con One Hot Encoding para llevar los resultados a una manera binaria para 
+poder trabajarlos.
+
+3. Este problema no tiene pruebas unitarias. Para realizar pruebas se genera un archivo output tomando el 20% de los datos de prueba en 
+el cual se comparan las predicciones realizadas con el valor original cuando se realizaron las respectativas clasificaciones de los 
+clientes.

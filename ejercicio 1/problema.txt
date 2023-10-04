@@ -1,0 +1,7 @@
+1. Read_palindromo contiene la función en menos de 5 líneas de código para determinar si una palabra o frase es palindromo. Retorna True si
+la frase es palíndromo o retorna False si la palabra NO es palíndromo.
+
+2. El main.py llama a la función boolean_palindromo para hacer pruebas de su funcionamiento. 
+
+3. También, el main.py contiene las 4 pruebas unitarias, a la hora de ejecutar main.py ejecutará de manera automática estas 4 pruebas unitarias
+generando 4 archivos output con las respuestas de las pruebas según su input.

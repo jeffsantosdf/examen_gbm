@@ -1,0 +1,9 @@
+1. jumps.py contiene la función de los saltos mínimos para dado una entrada input o X.
+
+2. El main.py llama a la función minimum_jumps que retorna un número. 
+
+3. Para mayor facilidad, el input lo he colocado en un archivo de texto llamado "input.txt". Este main.py genera un output.txt 
+según el archivo input.txt donde estarán las respuestas al número X que venga en el input.
+
+4. También, el main.py contiene las 3 pruebas unitarias, a la hora de ejecutar main.py ejecutará de manera automática estas 3 pruebas unitarias
+generando 3 archivos output con las respuestas de las pruebas según su input.
